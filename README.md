@@ -1,7 +1,11 @@
 # GAN-CIRCLE
 IEEE TMI 2019. CT Super-resolution GAN Constrained by the Identical, Residual, and Cycle Learning Ensemble (GAN-CIRCLE)
 
-## Citation
+### Introduction
+
+This repository is for our TMI 2019 paper '[CT Super-resolution GAN Constrained by the Identical, Residual, and Cycle Learning Ensemble (GAN-CIRCLE)](https://arxiv.org/pdf/1808.04256.pdf)'.
+
+### Citation
 
 If GAN-CIRCLE is useful for your research, please consider citing this work:
 
@@ -20,7 +24,7 @@ doi = {10.1109/TMI.2019.2922960}
 ```
 
 
-## Contact 
+### Contact 
 If you have any question, please file an issue or contact the author:
 ```
 Chenyu You: uniycy@stanford.edu
