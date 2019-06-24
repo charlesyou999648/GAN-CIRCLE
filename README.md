@@ -3,7 +3,7 @@ IEEE TMI 2019. CT Super-resolution GAN Constrained by the Identical, Residual, a
 
 ## Citation
 
-If GAN-CIRCLE is useful for your research, please consider citing:
+If GAN-CIRCLE is useful for your research, please consider citing this work:
 
 ```shell
 @article{article,
@@ -20,7 +20,8 @@ doi = {10.1109/TMI.2019.2922960}
 ```
 
 
-### Questions
-
-Please contact 'uniycy@stanford.edu'
-
+## Contact 
+If you have any question, please file an issue or contact the author:
+```
+Chenyu You: uniycy@stanford.edu
+```
